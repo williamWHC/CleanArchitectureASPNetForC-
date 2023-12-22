@@ -1,5 +1,3 @@
-# CleanArchitectureASPNetForCSharp
-Projeto com o objetivo de evoluir em arquitetura e padrões de software.
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
@@ -14,7 +12,9 @@ Projeto com o objetivo de evoluir em arquitetura e padrões de software.
 	<img src="https://img.shields.io/github/stars/williamWHC?style=social">
 </p>
 
-Nesse repositório contém alguns projeto e práticas de desenvolvimento seguindo práticas de Clean Architecture [Macorrati](https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/)
+Nesse repositório contém alguns projeto e práticas de desenvolvimento seguindo práticas de Clean Architecture.
+Projeto com o objetivo de evoluir em boas práticas de Arquitetura Limpa.
+ [Macorrati](https://www.udemy.com/course/clean-architecture-essencial-asp-net-core-com-c/)
 
 ---
 
