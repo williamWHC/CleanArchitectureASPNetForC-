@@ -8,7 +8,7 @@
 <h2 align="center"> Descrição do Projeto </h2>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Vers%C3%A3o-.Net7-blue">
+	<img src="https://img.shields.io/badge/Vers%C3%A3o-.Net8-blue">
 	<img src="https://img.shields.io/github/stars/williamWHC?style=social">
 </p>
 
